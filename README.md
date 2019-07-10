@@ -1,4 +1,4 @@
-Application for downloading pictures. GUI
+Application for downloading pictures. GUI <br>
 Ubuntu PC operating system.
 Clone or Download: https://github.com/antonioDataScience/app.git
 Go to app/dist/api/ and start "api" service if you want. 
